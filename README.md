@@ -8,7 +8,7 @@ It is designed for users who want full control over their own calibration workfl
 
 ## Demo
 
-![MSHB Map Scanner Demo](assets/videos/scanner_pipeline.mp4)
+![Watch the demo](assets/videos/scanner_pipeline.mp4)
 
 This demo shows the map scanner workflow going from raw scan results to a saved candidate map using reranking, 3D visualization, and custom scaling logic.
 
